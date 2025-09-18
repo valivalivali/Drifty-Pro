@@ -127,6 +127,7 @@ Love Drifty Pro? Help us spread the word!
 - Added functional Terms of Use and Privacy Policy links
 - Fixed in-app purchase submission requirements
 - Updated paywall with legal compliance
+- Improved subscription handling
 
 ### Version 1.0 (Build 3)
 - Initial release with 8 vibration patterns
