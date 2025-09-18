@@ -76,7 +76,7 @@ Your privacy is our priority. Drifty Pro:
 - ✅ Requires no account creation
 - ✅ Contains no ads or trackers
 
-Read our full [Privacy Policy](https://valivalivali.github.io/Drifty-Pro/PRIVACY.MD) and [Terms of Use](https://valivalivali.github.io/Drifty-Pro/TERMS.MD).
+Read our full [Privacy Policy](https://valivalivali.github.io/Drifty-Pro/PRIVACY) and [Terms of Use](https://valivalivali.github.io/Drifty-Pro/TERMS).
 
 ## ⚠️ Important Information
 
@@ -123,7 +123,12 @@ Love Drifty Pro? Help us spread the word!
 
 ## 🛠️ Version History
 
-### Current Version: 1.0 (Build 3)
+### Current Version: 1.2 (Build 4)
+- Added functional Terms of Use and Privacy Policy links
+- Fixed in-app purchase submission requirements
+- Updated paywall with legal compliance
+
+### Version 1.0 (Build 3)
 - Initial release with 8 vibration patterns
 - Subscription system implementation
 - Sleep timer functionality
@@ -131,8 +136,8 @@ Love Drifty Pro? Help us spread the word!
 
 ## 📜 Legal
 
-- [Terms of Use](https://valivalivali.github.io/Drifty-Pro/TERMS.MD)
-- [Privacy Policy](https://valivalivali.github.io/Drifty-Pro/PRIVACY.MD)
+- [Terms of Use](https://valivalivali.github.io/Drifty-Pro/TERMS)
+- [Privacy Policy](https://valivalivali.github.io/Drifty-Pro/PRIVACY)
 - [Support](mailto:valivalivali128@gmail.com)
 
 ## 🏆 About the Developer
